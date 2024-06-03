@@ -1,5 +1,6 @@
 # Здесь помещено краткое описание модулей процессора RISK-V
-### Детальное описание можно посмотреть в deteiled_desctiption/proc.md
+
+### (Детальное описание можно посмотреть в deteiled_desctiption/proc.md)
 
 1. **ALU (Arithmetic Logic Unit)**
 
